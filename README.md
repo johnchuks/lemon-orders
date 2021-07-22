@@ -29,7 +29,7 @@ git clone https://github.com/johnchuks/lemon-orders.git
 After cloning the repository, we will need to enter the current directory of the project with this command
 
 ```
-cd lemon-market-orders
+cd lemon-orders
 ```
 
 To build and run the container, we use this command below
